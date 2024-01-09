@@ -1,2 +1,2 @@
 # Desenvolvimento Backend com Kotlin *(Resumos)*
-Repositório voltado para resumos das aulas do bootcamp Desenvolvimento Backend com Kotlin realizado na plataforma [DIO](https://www.dio.me).
+Repositório voltado para resumos das aulas do bootcamp Coding The Future NTT Data - Desenvolvimento Backend com Kotlin realizado na plataforma [DIO](https://www.dio.me).
