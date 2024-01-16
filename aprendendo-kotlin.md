@@ -37,6 +37,7 @@ fun main() {
 ```
 
 **Funções**
+
 - **Valores de Parâmetro Padrão e Argumentos Nomeados:**
 
 ```
@@ -87,6 +88,7 @@ fun main() {
 ```
 
 - **Parâmetros vararg**
+
 Varargs permitem que você passe qualquer número de argumentos, desde que respeitem o tipo especificado (string, int, etc) separando-os com vírgulas.
 ```
 // função principal
@@ -123,6 +125,7 @@ fun main() {
 ```
 
 **Variáveis var e val**
+
 - var é uma variável, mutáve;
 - val é um valor imutável.
 ```
@@ -145,6 +148,7 @@ fun main() {
 ```
 
 **Null Safety - Nulidade**
+
 Segurança Nula: necessidade de deixar explicito se a variável pode receber valores nulos ou não.
 
 ```
@@ -206,6 +210,7 @@ fun main() {
 ```
 
 **Generics**
+
 Flexibilidade na tipagem das informações. Muito comum em coleções como listas.
 
 - **Classes Genéricas**
